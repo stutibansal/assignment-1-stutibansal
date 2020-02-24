@@ -13,7 +13,7 @@ public class Main {
 
         Tasks tasks = new Tasks();
 
-        System.out.println("Welcome to Janvi's Contact List App");
+        System.out.println("Welcome to Stuti's Contact List App");
 
         System.out.println("Press 1 to add a new contact");
 
